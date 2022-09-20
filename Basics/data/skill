@@ -1,0 +1,14 @@
+{
+  "1": {
+    "skill": "Photography",
+    "percentage": "90%"
+  },
+  "2": {
+    "skill": "Adobe Photoshop",
+    "percentage": "80%"
+  },
+  "3": {
+    "skill": "Media",
+    "percentage": "60%"
+  }
+}

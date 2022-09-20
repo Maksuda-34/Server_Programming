@@ -1,0 +1,14 @@
+{
+  "1": {
+    "language": "Bangla",
+    "percentage":"90%"
+  },
+  "2": {
+    "language": "English",
+    "percentage":"80%"
+  },
+  "3": {
+    "language": "Spanish",
+    "percentage":"70%"
+  }
+}
